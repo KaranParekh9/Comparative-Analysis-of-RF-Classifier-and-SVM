@@ -1,0 +1,1 @@
+This report compares two machine learning models, Random Forest and Support Vector Machine, to predict if bank customers will subscribe to a term deposit. It details data preparation, model building, and performance analysis. Random Forest showed slightly better accuracy, while SVM had higher recall, making it better for finding potential subscribers.
